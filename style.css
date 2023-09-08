@@ -46,18 +46,6 @@ header{
     font-size: 4vh;
     flex-direction: column;
 }
-#pesquisa{
-    display: flex;
-    width: 80vw;
-    height: 5vh;
-    font-size: 4vh;
-    justify-content: center;
-    margin: 1vw;
-    flex-wrap: wrap;
-}
-#ipes{
-    width: 60vw;
-}
 #aplicativos{
     display: flex;
     width: 100vw;
