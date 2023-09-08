@@ -121,9 +121,15 @@ footer{
     #logo{
         width: 17vw;
     }
+    header{
+        font-size: 3vh;
+    }
 }
 @media screen and (min-width:0px) and (max-width: 600px){
     #logo{
         width: 25vw;
+    }
+    header{
+        font-size: 3vh;
     }
 }
