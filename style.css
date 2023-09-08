@@ -102,3 +102,28 @@ footer{
     font-size: 4vh;
     justify-content: center;
 }
+@media screen and (min-width: 900px){
+    #logo{
+        width: 11vw;
+    }
+}
+@media screen and (min-width: 1200px){
+    #logo{
+        width: 9vw;
+    }
+}
+@media screen and (min-width: 1400px){
+    #logo{
+        width: 7vw;
+    }
+}
+@media screen and (min-width:0px) and (max-width: 1000px){
+    #logo{
+        width: 17vw;
+    }
+}
+@media screen and (min-width:0px) and (max-width: 600px){
+    #logo{
+        width: 25vw;
+    }
+}
